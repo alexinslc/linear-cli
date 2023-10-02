@@ -7,6 +7,9 @@
 *.dll
 *.so
 *.dylib
+linear-cli
+lr
+
 
 # Test binary, built with `go test -c`
 *.test
